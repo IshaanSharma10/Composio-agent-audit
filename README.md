@@ -4,7 +4,7 @@ Researches whether 100 real-world apps can become AI-agent toolkits: auth
 method, self-serve vs. gated, API surface, and the main blocker if any —
 done with an agent instead of by hand, with a verification loop to check it.
 
-**Live case study:** [CASE STUDY HTML FILE](https://ishaansharma10.github.io/Composio-agent-audit/)]
+**Live case study:** [CASE STUDY HTML FILE](https://ishaansharma10.github.io/Composio-agent-audit/)
 
 ## How it works
 
